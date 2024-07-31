@@ -12,4 +12,4 @@ def check_resident_entry(year):
 
 # Example usage:
 check_resident_entry(current_year)
-if year
+
