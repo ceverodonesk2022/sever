@@ -11,5 +11,5 @@ def check_resident_entry(year):
         print("Sorry, this message is only valid for 2024.")
 
 # Example usage:
-check_resident_entry(current_year)
+
 
