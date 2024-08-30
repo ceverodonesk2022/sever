@@ -10,6 +10,6 @@ def check_resident_entry(year):
     else:
         print("Sorry, this message is only valid for 2024.")
 
-# Example usage:
+
 
 
