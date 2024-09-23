@@ -7,7 +7,7 @@ city = "Severodonetsk"
 def check_resident_entry(year):
     if year == 2024:
         print(f"Welcome to {city}! Enjoy your stay.")
-    else:
+   
         
 
 
